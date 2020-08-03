@@ -1,0 +1,87 @@
+[submodule "audio.mod"]
+	path = audio.mod
+	url = https://github.com/bmx-ng/audio.mod.git
+[submodule "bmk"]
+	path = bmk
+	url = https://github.com/bmx-ng/bmk.git
+[submodule "maxide"]
+	path = maxide
+	url = https://github.com/bmx-ng/maxide.git
+[submodule "bcc"]
+	path = bcc
+	url = https://github.com/bmx-ng/bcc.git
+[submodule "pub.mod"]
+	path = pub.mod
+	url = https://github.com/bmx-ng/pub.mod.git
+[submodule "brl.mod"]
+	path = brl.mod
+	url = https://github.com/bmx-ng/brl.mod.git
+[submodule "text.mod"]
+	path = text.mod
+	url = https://github.com/bmx-ng/text.mod.git
+[submodule "sdl.mod"]
+	path = sdl.mod
+	url = https://github.com/bmx-ng/sdl.mod.git
+[submodule "steam.mod"]
+	path = steam.mod
+	url = https://github.com/bmx-ng/steam.mod.git
+[submodule "ray.mod"]
+	path = ray.mod
+	url = https://github.com/bmx-ng/ray.mod.git
+[submodule "glfw.mod"]
+	path = glfw.mod
+	url = https://github.com/bmx-ng/glfw.mod.git
+[submodule "random.mod"]
+	path = random.mod
+	url = https://github.com/bmx-ng/random.mod.git
+[submodule "dbg.mod"]
+	path = dbg.mod
+	url = https://github.com/bmx-ng/dbg.mod.git
+[submodule "maxgui.mod"]
+	path = maxgui.mod
+	url = https://github.com/bmx-ng/maxgui.mod.git
+[submodule "bmx-ng"]
+	path = bmx-ng
+	url = https://github.com/bmx-ng/bmx-ng.git
+[submodule "bootstrap_linux"]
+	path = bootstrap_linux
+	url = https://github.com/bmx-ng/bootstrap_linux.git
+[submodule "crypto.mod"]
+	path = crypto.mod
+	url = https://github.com/bmx-ng/crypto.mod.git
+[submodule "iot.mod"]
+	path = iot.mod
+	url = https://github.com/bmx-ng/iot.mod.git
+[submodule "gfx.mod"]
+	path = gfx.mod
+	url = https://github.com/bmx-ng/gfx.mod.git
+[submodule "zeke.mod"]
+	path = zeke.mod
+	url = https://github.com/bmx-ng/zeke.mod.git
+[submodule "mky.mod"]
+	path = mky.mod
+	url = https://github.com/bmx-ng/mky.mod.git
+[submodule "b3d.mod"]
+	path = b3d.mod
+	url = https://github.com/bmx-ng/b3d.mod.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/bmx-ng/bootstrap.git
+[submodule "otus.mod"]
+	path = otus.mod
+	url = https://github.com/bmx-ng/otus.mod.git
+[submodule "maxmod2.mod"]
+	path = maxmod2.mod
+	url = https://github.com/bmx-ng/maxmod2.mod.git
+[submodule "blide.mod"]
+	path = blide.mod
+	url = https://github.com/bmx-ng/blide.mod.git
+[submodule "newton.mod"]
+	path = newton.mod
+	url = https://github.com/bmx-ng/newton.mod.git
+[submodule "odd.mod"]
+	path = odd.mod
+	url = https://github.com/bmx-ng/odd.mod.git
+[submodule "axe.mod"]
+	path = axe.mod
+	url = https://github.com/bmx-ng/axe.mod.git
