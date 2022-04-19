@@ -85,3 +85,18 @@
 [submodule "axe.mod"]
 	path = axe.mod
 	url = https://github.com/bmx-ng/axe.mod.git
+[submodule "net.mod"]
+	path = net.mod
+	url = git@github.com:bmx-ng/net.mod.git
+[submodule "database.mod"]
+	path = database.mod
+	url = git@github.com:bmx-ng/database.mod.git
+[submodule "image.mod"]
+	path = image.mod
+	url = git@github.com:bmx-ng/image.mod.git
+[submodule "archive.mod"]
+	path = archive.mod
+	url = git@github.com:bmx-ng/archive.mod.git
+[submodule "physics.mod"]
+	path = physics.mod
+	url = git@github.com:bmx-ng/physics.mod.git
